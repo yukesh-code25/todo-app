@@ -56,4 +56,8 @@ While building this project, I gained hands-on experience with:
 
 **Yukesh R**
 
+GitHub: https://github.com/yukesh-code25
+
+LinkedIn: https://www.linkedin.com/in/yukesh-r-9b51bb2a5/
+
 If you found this project useful, feel free to ⭐ the repository and connect with me on GitHub or LinkedIn.
